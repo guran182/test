@@ -1,0 +1,15 @@
+<script>
+function HoverInputs(id)
+{
+	if(document.getElementById( id ).checked == false)
+	{
+		document.getElementsByClassName('login_information_' + id)[0].disabled = true;
+		document.getElementsByClassName('login_information_' + id)[1].disabled = true;
+	}
+	if(document.getElementById( id ).checked == true)
+	{
+		document.getElementsByClassName('login_information_' + id)[0].disabled = false;
+		document.getElementsByClassName('login_information_' + id)[1].disabled = false;
+	}
+}
+</script>
