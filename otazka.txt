@@ -1,0 +1,16 @@
+
+
+I am a full time student and two weeks ago I got my first job as programmer. But I am heading some challenges related to my position as programmer. I read a lot about programming and write many academical programs. But now I must learn new real life technology (Python, Javascript), new practices and so on. My questions are as follows:
+
+    How do you use to learn new technology when you have only little time dedicated to learning. Do you read whole books or you just learn syntax by learning by doing.
+    Is closely related to first one. How you read documentation? Do you read it whole from cover to cover or you use only API? And you just grab the name of method/function and just use it?
+    Is it good to ask many questions to colleages? (I know that they have enough work without my questions)
+    I saw that I do not write good code (not efficient, many queries that can be refactored lately, maybe unsafe). So the question is can I write "bad" code (but working) cause of deadlines? Do you use to do it too or you have same technique?
+    Is the solution just testing? And how should I test?
+    How learn object oriented programming for real life application. Which practices should I grasp?
+    How can I do many new things and use many new concepts in the same time without practice. Is it possible?
+
+How you use to deal with similar problems? Maybe these questions look childish to you but I really do not know how to heading it right way. What should I learn first? Sorry for my poor English.
+
+Thank you very much for your answers
+
